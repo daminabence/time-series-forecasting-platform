@@ -4,9 +4,10 @@ pandas==2.2.3
 numpy==1.26.4
 
 # Time Series
-statsmodels==0.14.4
+statsmodels==0.14.6
 prophet==1.1.6
 pmdarima==2.0.4
+scipy==1.17.1
 
 # ML
 scikit-learn==1.5.2
